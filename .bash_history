@@ -74,3 +74,16 @@ https://github.com/shreemahi70/Shreepad.git/'https://github.com/shreemahi70/Shre
 
 
 
+git push shree 
+clear
+git status
+
+vi 16.txt
+vi 19.txt
+vi 17.txt
+git add 16.txt
+git status
+git commit -m .
+git push shree master
+git push shree
+git push https://github.com/shreemahi70/Shreepad
